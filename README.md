@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi I'm BINAYBORO
 
-<!--
-**BINAYBORO/BINAYBORO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 👋 Hi, I'm Binay Boro
 
-Here are some ideas to get you started:
+🎓 BBA Student | 📊 Aspiring Data Analyst  
+💡 Passionate about data, dashboards, and business insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 📚 Currently learning Data Analytics & Business Intelligence
+- 📊 Working with tools like Excel, Power BI, IBM Cognos
+- 🎯 Interested in Data Visualization & Dashboard Design
+- 🌱 Always exploring new technologies and improving skills  
+
+---
+
+## 🛠️ Skills
+- Data Analysis  
+- Data Visualization  
+- Dashboard Creation  
+- Basic SQL  
+- Microsoft Excel  
+- IBM Cognos Analytics  
+
+---
+
+## 📈 Projects
+- 📊 Sales Dashboard (Power BI / Cognos)  
+- 📉 Customer Segmentation Analysis  
+- 📋 Business Reports & KPI Dashboards  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: boronishan7@gmail.com  
+- 💼 LinkedIn:  https://www.linkedin.com/in/binay-boro-265956394
+
+---
+
