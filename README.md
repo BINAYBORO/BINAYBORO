@@ -1,6 +1,6 @@
 ## Hi I'm BINAYBORO
 
-<!--# 👋 Hi, I'm Binay Boro
+ 👋 Hi, I'm Binay Boro
 
 🎓 BBA Student | 📊 Aspiring Data Analyst  
 💡 Passionate about data, dashboards, and business insights  
