@@ -1,7 +1,7 @@
-## Hi I'm BINAYBORO
+## Hi I'm BINAYBO
 
  👋 Hi, I'm Binay Boro
-
+<img width="450" height="245" alt="image" src=(https://www.michiganstateuniversityonline.com/resources/business-analytics/what-is-business-analytics/) />
 🎓 BBA Student | 📊 Aspiring Data Analyst  
 💡 Passionate about data, dashboards, and business insights  
 
