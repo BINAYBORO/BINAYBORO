@@ -1,5 +1,5 @@
 👋 Hi, I'm Binay Boro
-<img width="450" height="245" alt="image" src=https://www.michiganstateuniversityonline.com/wp-content/uploads/sites/3/2018/05/what-is-business-analytics.jpg?w=715&h=375&crop=1/>
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 🎓 BBA Student | 📊 Aspiring Data Analyst  
 💡 Passionate about data, dashboards, and business insights  
 
